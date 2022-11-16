@@ -1,0 +1,36 @@
+<html>
+
+<body>
+    <title>Formular date client</title>
+    <h2>Date client</h2>
+    <form action = "GenerareChitantaServlet" method="POST">
+        <p>
+            <label>Nume:</label>
+            <input type="text" name="campNume">
+        </p>
+        <p>
+            <label>Prenume:</label>
+            <input type="text" name="campPrenume">
+        </p>
+        <p>
+            <label>Orasul:</label>
+            <input type="text" name="campOras">
+        </p>
+        <p>
+            <label>Adresa:</label>
+            <input type="text" name="campAdresa">
+        </p>
+        <br>
+        <label>Modalitate de plata :</label>
+        <br>
+            <select name="modalitateDePlata">
+                <option value="Card">Plata cu cardul
+                <option value="Cash">Plata cash
+            </select>
+            <p>
+                <input type="submit" value=" Genereaza chitanta">
+            </p>
+    </form>
+</body>
+
+</html>

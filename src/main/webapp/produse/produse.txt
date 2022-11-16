@@ -1,0 +1,10 @@
+Procesor_I7 Intel 200
+Procesor_I3 Intel 150
+Procesor_Ryzen7 AMD 300
+Procesor_Ryzen5 AMD 200
+Scandalul Frederick 30
+Povestea_Slujitoarei Manuel 40
+Cuptoare_Hitler Andreea 25
+Colinde Hrusca 20
+Rock_Clasic RockFM 25
+Muzica_clasica ClasicFM 22
